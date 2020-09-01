@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27437932-d483-4d3b-8b45-b9dbf16a7d71" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Ferrimagnet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Ferrimagnet.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../confusion_learning/2dplots.nb" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion_learning/2dplots.nb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../confusion_learning/cl_2D_ferro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion_learning/cl_2D_ferro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../confusion_learning/hysteresis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion_learning/hysteresis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../confusion_learning/hysteresis.nb" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion_learning/hysteresis.nb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../confusion_learning/modules_2D_ferro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion_learning/modules_2D_ferro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.tex" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="eff250b1-7441-4b0b-9f23-5fc79ef76cb3" />
+  <component name="ProjectId" id="1guKkqOvMLkSchtQkLLFFK4clY8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="LaTeX.phase-ferro">
+    <configuration default="true" type="BIBTEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
+      <texify-bibtex>
+        <compiler />
+        <compiler-path />
+        <compiler-arguments />
+        <main-file />
+        <aux-dir />
+      </texify-bibtex>
+      <method v="2" />
+    </configuration>
+    <configuration name="main bibliography" type="BIBTEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
+      <texify-bibtex>
+        <compiler>BIBTEX</compiler>
+        <compiler-path />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/src/main.tex</main-file>
+        <aux-dir>$PROJECT_DIR$/src</aux-dir>
+      </texify-bibtex>
+      <method v="2" />
+    </configuration>
+    <configuration name="phase-ferro bibliography" type="BIBTEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
+      <texify-bibtex>
+        <compiler>BIBTEX</compiler>
+        <compiler-path />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/src/phase-ferro.tex</main-file>
+        <aux-dir>$PROJECT_DIR$/src</aux-dir>
+      </texify-bibtex>
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <envs />
+        <main-file>$PROJECT_DIR$/src/main.tex</main-file>
+        <output-path>$PROJECT_DIR$/src</output-path>
+        <auxil-path />
+        <compile-twice>false</compile-twice>
+        <output-format>PDF</output-format>
+        <latex-distribution>TEXLIVE</latex-distribution>
+        <has-been-run>true</has-been-run>
+        <bib-run-config>[BibTeX.main bibliography]</bib-run-config>
+        <makeindex-run-config />
+      </texify>
+      <method v="2" />
+    </configuration>
+    <configuration name="phase-ferro" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <envs />
+        <main-file>$PROJECT_DIR$/src/phase-ferro.tex</main-file>
+        <output-path>$PROJECT_DIR$/src</output-path>
+        <auxil-path />
+        <compile-twice>false</compile-twice>
+        <output-format>PDF</output-format>
+        <latex-distribution>TEXLIVE</latex-distribution>
+        <has-been-run>true</has-been-run>
+        <bib-run-config>[]</bib-run-config>
+        <makeindex-run-config />
+      </texify>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="BibTeX.main bibliography" />
+      <item itemvalue="BibTeX.phase-ferro bibliography" />
+      <item itemvalue="LaTeX.main" />
+      <item itemvalue="LaTeX.phase-ferro" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="LaTeX.phase-ferro" />
+        <item itemvalue="LaTeX.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27437932-d483-4d3b-8b45-b9dbf16a7d71" name="Default Changelist" comment="" />
+      <created>1598959182489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598959182489</updated>
+      <workItem from="1598959183868" duration="655000" />
+      <workItem from="1598966196960" duration="2616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598968568539">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="418" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1598968568539" />
+    <state width="1874" height="488" key="GridCell.Tab.0.bottom" timestamp="1598968881665">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="488" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1598968881665" />
+    <state width="1874" height="488" key="GridCell.Tab.0.center" timestamp="1598968881665">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="488" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1598968881665" />
+    <state width="1874" height="488" key="GridCell.Tab.0.left" timestamp="1598968881664">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="488" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1598968881664" />
+    <state width="1874" height="488" key="GridCell.Tab.0.right" timestamp="1598968881665">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="488" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1598968881665" />
+  </component>
+</project>

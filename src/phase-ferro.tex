@@ -1,0 +1,88 @@
+\documentclass[aps,pra,twocolumn,amsmath,amssymb,nofootinbib,showpacs,superscriptaddress]{revtex4-1}
+\usepackage[english]{babel}
+\usepackage{latexsym}
+\usepackage{graphics}
+\usepackage{graphicx}
+\usepackage{epsfig}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{dcolumn}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{epstopdf}
+\usepackage{cleveref}
+\usepackage[svgnames]{xcolor}
+\usepackage{enumerate}
+\usepackage{braket}
+\hypersetup{hidelinks,colorlinks=true,allcolors=DarkBlue}
+\newcommand{\com}[1]{{\color{Red} #1}}
+
+\renewcommand{\sb}{\mathbf{s}}
+\newcommand{\sbx}{\mathbf{s_x}}
+\newcommand{\sby}{\mathbf{s_y}}
+\newcommand{\xb}{\mathbf{x}}
+\newcommand{\xeb}{\mathbf{x}_{\mathrm{ext}}}
+\newcommand{\xd}{\mathbf{x}_{\mathrm{dec}}}
+\newcommand{\yb}{\mathbf{y}}
+\newcommand{\yeb}{\mathbf{y}_{\mathrm{ext}}}
+\newcommand{\eb}{\mathbf{e}}
+\newcommand{\Hb}{\mathbf{H}}
+\newcommand{\hb}{h_\mathrm{b}}
+\newcommand{\rb}{\mathbf{r}}
+\newcommand{\zb}{\mathbf{z}}
+\newcommand{\epse}{\epsilon_\mathrm{est}}
+\newcommand{\ed}{\eb_\mathrm{dec} }
+
+\newcommand{\qe}{q_\mathrm{est}}
+
+\newcommand{\Mb}{\mathbf{M}}
+\newcommand{\LLR}{\mathrm{LLR}}
+\newcommand{\Sm}{\mathcal{S}}
+\newcommand{\Pm}{\mathcal{P}}
+\newcommand{\Pmu}{\mathcal{P}_\mathrm{unt}}
+\newcommand{\Nm}{\mathcal{N}}
+\newcommand{\Mm}{\mathcal{M}}
+\newcommand{\Am}{\mathcal{A}}
+\newcommand{\fst}{f_{\mathrm{start}}}
+
+\theoremstyle{remark}
+\newtheorem{remark}{Remark}
+
+\begin{document}
+
+    \preprint{APS/123-QED}
+
+    \title{Learning phase transitions in amorphous ferrimagnets}
+
+    \author{N. Koritsky}
+    \affiliation{Russian Quantum Center, Skolkovo, Moscow 143025, Russia}
+    \affiliation{Moscow Institute of Physics and Technology, Dolgoprudny 141700, Russia}
+
+    \author{S. Solov'yov}
+    \affiliation{Moscow Institute of Physics and Technology, Dolgoprudny 141700, Russia}
+
+    \author{A.K. Fedorov}
+    \affiliation{Russian Quantum Center, Skolkovo, Moscow 143025, Russia}
+    \affiliation{Moscow Institute of Physics and Technology, Dolgoprudny 141700, Russia}
+
+    \author{A.K. Zvezdin}
+    \affiliation{Russian Quantum Center, Skolkovo, Moscow 143025, Russia}
+    \affiliation{Moscow Institute of Physics and Technology, Dolgoprudny 141700, Russia}
+    \affiliation{Prokhorov General Physics Institute of the Russian Academy of Sciences, Moscow  119991, Russia}
+
+    \date{\today}
+    \begin{abstract}
+        We identify phase transitions in weak amorphous ferromagnets using machine learning technique, which is based on the learning with confusion.
+        We test the suggested method on the basis on the analytic model for the dynamics of domain walls in weak ferromagnets and obtain that corresponding universal $W$-shape.
+        Then we discuss the application of such a method for the case of amorphous ferrimagnets, where parameters of the model may fluctuate.
+        Special attention is paid to the case of GdFeCo, which is a metallic ferrimagnet with compensation point that is one of the most promising materials in ultrafast magnetism.
+    \end{abstract}
+
+    \maketitle
+
+
+
+    \bibliography{biblio}
+    \bibliographystyle{plain}
+\end{document}
