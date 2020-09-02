@@ -9,10 +9,10 @@
       <change beforePath="$PROJECT_DIR$/../confusion_learning/hysteresis.nb" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion_learning/hysteresis.nb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../confusion_learning/modules_2D_ferro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion_learning/modules_2D_ferro.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biblio.bib" beforeDir="false" afterPath="$PROJECT_DIR$/src/phase-ferro.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduction.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/body.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/phase-ferro.bib" beforeDir="false" afterPath="$PROJECT_DIR$/src/phase-ferro.bib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/phase-ferro.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/phase-ferro.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/phase-ferro.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/phase-ferro.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/phase-ferroNotes.bib" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
         <compiler>BIBTEX</compiler>
         <compiler-path />
         <compiler-arguments />
-        <main-file>$PROJECT_DIR$/src/introduction.tex</main-file>
+        <main-file>$PROJECT_DIR$/src/body.tex</main-file>
         <aux-dir>$USER_HOME$</aux-dir>
       </texify-bibtex>
       <method v="2" />
@@ -109,7 +109,7 @@
         <viewer-command />
         <compiler-arguments />
         <envs />
-        <main-file>$PROJECT_DIR$/src/introduction.tex</main-file>
+        <main-file>$PROJECT_DIR$/src/body.tex</main-file>
         <output-path>$USER_HOME$</output-path>
         <auxil-path>$USER_HOME$</auxil-path>
         <compile-twice>false</compile-twice>
@@ -164,10 +164,10 @@
     <list>
       <item itemvalue="BibTeX.main bibliography" />
       <item itemvalue="BibTeX.phase-ferro bibliography" />
+      <item itemvalue="BibTeX.introduction bibliography" />
       <item itemvalue="LaTeX.main" />
       <item itemvalue="LaTeX.phase-ferro" />
       <item itemvalue="LaTeX.introduction" />
-      <item itemvalue="BibTeX.introduction bibliography" />
     </list>
     <recent_temporary>
       <list>
@@ -188,7 +188,8 @@
       <workItem from="1598959183868" duration="655000" />
       <workItem from="1598966196960" duration="2616000" />
       <workItem from="1598968964989" duration="881000" />
-      <workItem from="1598970070291" duration="4505000" />
+      <workItem from="1598970070291" duration="5098000" />
+      <workItem from="1599045051124" duration="13763000" />
     </task>
     <servers />
   </component>
@@ -200,22 +201,22 @@
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state x="418" y="184" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1598970639261" />
-    <state width="1874" height="79" key="GridCell.Tab.0.bottom" timestamp="1598973415333">
+    <state width="1874" height="106" key="GridCell.Tab.0.bottom" timestamp="1599073989992">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1874" height="79" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1598973415333" />
-    <state width="1874" height="79" key="GridCell.Tab.0.center" timestamp="1598973415333">
+    <state width="1874" height="106" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1599073989992" />
+    <state width="1874" height="106" key="GridCell.Tab.0.center" timestamp="1599073989992">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1874" height="79" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1598973415333" />
-    <state width="1874" height="79" key="GridCell.Tab.0.left" timestamp="1598973415333">
+    <state width="1874" height="106" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1599073989992" />
+    <state width="1874" height="106" key="GridCell.Tab.0.left" timestamp="1599073989991">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1874" height="79" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1598973415333" />
-    <state width="1874" height="79" key="GridCell.Tab.0.right" timestamp="1598973415333">
+    <state width="1874" height="106" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1599073989991" />
+    <state width="1874" height="106" key="GridCell.Tab.0.right" timestamp="1599073989992">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1874" height="79" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1598973415333" />
+    <state width="1874" height="106" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1599073989992" />
     <state x="449" y="161" width="1022" height="737" key="SettingsEditor" timestamp="1598970320111">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
