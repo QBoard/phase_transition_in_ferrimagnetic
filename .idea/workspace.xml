@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27437932-d483-4d3b-8b45-b9dbf16a7d71" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Ferrimagnet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Ferrimagnet.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ferrimagnet.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../confusion_learning/2dplots.nb" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion_learning/2dplots.nb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../confusion_learning/cl_2D_ferro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion_learning/cl_2D_ferro.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../confusion_learning/hysteresis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion_learning/hysteresis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../confusion_learning/hysteresis.nb" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion_learning/hysteresis.nb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../confusion_learning/modules_2D_ferro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion_learning/modules_2D_ferro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../confusion_learning_2D.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../info.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/body.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/phase-ferro.bib" beforeDir="false" afterPath="$PROJECT_DIR$/src/phase-ferro.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/body.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/body.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/phase-ferro.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/phase-ferro.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/phase-ferro.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/phase-ferro.tex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.grazie" />
   </component>
   <component name="RunManager" selected="LaTeX.phase-ferro">
     <configuration default="true" type="BIBTEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
@@ -161,19 +163,9 @@
       </texify>
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="BibTeX.main bibliography" />
-      <item itemvalue="BibTeX.phase-ferro bibliography" />
-      <item itemvalue="BibTeX.introduction bibliography" />
-      <item itemvalue="LaTeX.main" />
-      <item itemvalue="LaTeX.phase-ferro" />
-      <item itemvalue="LaTeX.introduction" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="LaTeX.phase-ferro" />
-        <item itemvalue="LaTeX.introduction" />
-        <item itemvalue="LaTeX.main" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +181,11 @@
       <workItem from="1598966196960" duration="2616000" />
       <workItem from="1598968964989" duration="881000" />
       <workItem from="1598970070291" duration="5098000" />
-      <workItem from="1599045051124" duration="13763000" />
+      <workItem from="1599045051124" duration="18938000" />
+      <workItem from="1599214633459" duration="181000" />
+      <workItem from="1599214828406" duration="72000" />
+      <workItem from="1599214910780" duration="81000" />
+      <workItem from="1599215002170" duration="2626000" />
     </task>
     <servers />
   </component>
@@ -201,25 +197,45 @@
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state x="418" y="184" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1598970639261" />
-    <state width="1874" height="106" key="GridCell.Tab.0.bottom" timestamp="1599073989992">
+    <state width="1874" height="36" key="GridCell.Tab.0.bottom" timestamp="1599216571565">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1874" height="106" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1599073989992" />
-    <state width="1874" height="106" key="GridCell.Tab.0.center" timestamp="1599073989992">
+    <state width="1874" height="36" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1599216571565" />
+    <state width="914" height="106" key="GridCell.Tab.0.bottom/1920.0.4096.2160@1920.0.4096.2160" timestamp="1599213996527" />
+    <state width="1874" height="36" key="GridCell.Tab.0.center" timestamp="1599216571565">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1874" height="106" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1599073989992" />
-    <state width="1874" height="106" key="GridCell.Tab.0.left" timestamp="1599073989991">
+    <state width="1874" height="36" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1599216571565" />
+    <state width="914" height="106" key="GridCell.Tab.0.center/1920.0.4096.2160@1920.0.4096.2160" timestamp="1599213996526" />
+    <state width="1874" height="36" key="GridCell.Tab.0.left" timestamp="1599216571565">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1874" height="106" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1599073989991" />
-    <state width="1874" height="106" key="GridCell.Tab.0.right" timestamp="1599073989992">
+    <state width="1874" height="36" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1599216571565" />
+    <state width="914" height="106" key="GridCell.Tab.0.left/1920.0.4096.2160@1920.0.4096.2160" timestamp="1599213996526" />
+    <state width="1874" height="36" key="GridCell.Tab.0.right" timestamp="1599216571565">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1874" height="106" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1599073989992" />
-    <state x="449" y="161" width="1022" height="737" key="SettingsEditor" timestamp="1598970320111">
+    <state width="1874" height="36" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1599216571565" />
+    <state width="914" height="106" key="GridCell.Tab.0.right/1920.0.4096.2160@1920.0.4096.2160" timestamp="1599213996526" />
+    <state width="1874" height="36" key="GridCell.Tab.1.bottom" timestamp="1599216571566">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state x="449" y="161" width="1022" height="737" key="SettingsEditor/0.0.1920.1053@0.0.1920.1053" timestamp="1598970320111" />
+    <state width="1874" height="36" key="GridCell.Tab.1.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1599216571566" />
+    <state width="1874" height="36" key="GridCell.Tab.1.center" timestamp="1599216571565">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="36" key="GridCell.Tab.1.center/0.0.1920.1053@0.0.1920.1053" timestamp="1599216571565" />
+    <state width="1874" height="36" key="GridCell.Tab.1.left" timestamp="1599216571565">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="36" key="GridCell.Tab.1.left/0.0.1920.1053@0.0.1920.1053" timestamp="1599216571565" />
+    <state width="1874" height="36" key="GridCell.Tab.1.right" timestamp="1599216571566">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="36" key="GridCell.Tab.1.right/0.0.1920.1053@0.0.1920.1053" timestamp="1599216571566" />
+    <state x="449" y="161" width="1021" height="737" key="SettingsEditor" timestamp="1599216174874">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="449" y="161" width="1021" height="737" key="SettingsEditor/0.0.1920.1053@0.0.1920.1053" timestamp="1599216174874" />
   </component>
 </project>
